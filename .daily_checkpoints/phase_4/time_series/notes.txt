@@ -1,0 +1,1 @@
+The resampling frequency should be updated to 'MS' to match the updated change in the [central ed code challenge](https://github.com/learn-co-curriculum/dsc-code-challenge-4/blob/main/Phase%204%20Code%20Challenge%20Notebook.ipynb)

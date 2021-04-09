@@ -1,0 +1,1 @@
+Written for the 012720 cohort by Erin Hoffman.  Similar to an SE code challenge, it asks for a coherent set of deliverables rather than surveying all concepts in the module
